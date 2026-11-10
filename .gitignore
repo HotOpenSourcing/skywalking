@@ -14,7 +14,6 @@ packages/
 .mvn/wrapper/*.jar
 OALLexer.tokens
 .factorypath
-.vscode
 .checkstyle
 .externalToolBuilders
 oap-server/oal-grammar/**/gen/
@@ -45,3 +44,5 @@ test/script-cases/scripts/**/*.generated-classes/
 .claude/settings.local.json
 .claude/scheduled_tasks.lock
 *.generated-classes/
+config.bat
+node_modules
